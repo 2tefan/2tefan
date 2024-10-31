@@ -6,7 +6,7 @@
 
 I am more active on [GitLab](https://gitlab.com/2tefan), so if you want to check out most of my projects, you can find them there 😇
 
-If you want to contact me, write me an [e-mail](mailto:2tefan@tuta.io) :envelope:
+If you want to contact me, write me an [e-mail](mailto:me@2tefan.eu) :envelope:
 
 ### Here are my GitHub stats
 
